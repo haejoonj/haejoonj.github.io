@@ -5,6 +5,9 @@ main:
     - title: "Main"
       url: https://haejoonj.github.io
 
+    - title: "윤동주"
+      url: /categories/윤동주/
+
     - title: "About"
       url: /about/
 

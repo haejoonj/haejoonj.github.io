@@ -2,7 +2,7 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    - title: "블로그 방문하기"
+    - title: "Main"
       url: https://haejoonj.github.io
 
     - title: "About"

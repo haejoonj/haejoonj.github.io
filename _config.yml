@@ -112,11 +112,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "독학으로 github 공부중인 백수"
   location         : "Seoul, S.Korea"
-  email            : haejoonj@daum.net
+  email            : # haejoonj@daum.net
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:haejoonj@daum.net
+      url: mailto:haejoonj@daum.net
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

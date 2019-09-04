@@ -7,6 +7,13 @@ main:
 
     - title: "About"
       url: /about/
+
+    - title: "categories"
+      url: /categories/
+
+    - title: "tags"
+      url: /tags/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

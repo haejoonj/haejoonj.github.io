@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "haejoon jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "독학으로 github 공부중인 백수"
+  bio              : "독학으로 github 공부중"
   location         : "Seoul, S.Korea"
   email            : # haejoonj@daum.net
   links:

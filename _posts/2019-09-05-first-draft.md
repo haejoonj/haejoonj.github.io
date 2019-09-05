@@ -6,11 +6,11 @@ toc_sticky: true
 header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
- categories:
+categories:
   - Blog
 tags:
-  - Blog, 일상
-last_modified_at: 2019-09-05T19:06:00-05:00
+  - Blog,
+last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
 ## 1. github 접하게된 계기

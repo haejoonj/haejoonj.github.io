@@ -6,8 +6,6 @@ layout: single
 
 ## haejoon jeong의 블로그
 
-**# haejoon jeong**
-
 ### 정해준
 
 * Commercial pilot license, Phoenix, AZ, U.S.

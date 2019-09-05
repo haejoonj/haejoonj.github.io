@@ -11,10 +11,10 @@ main:
     - title: "About"
       url: /about/
 
-    - title: "categories"
+    - title: "Categories"
       url: /categories/
 
-    - title: "tags"
+    - title: "Tags"
       url: /tags/
 
   # - title: "Sample Posts"

@@ -1,5 +1,5 @@
 ---
-title:  "시작"
+title:  "시작2"
 excerpt: "github를 통해 블로그를 처음 만들고 처음 쓰는 글"
 toc: true
 toc_sticky: true

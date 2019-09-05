@@ -17,8 +17,9 @@ main:
     - title: "Tags"
       url: /tags/
 
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    - title: "years" # 이건 해보고 별로면 빼자
+      url: /year-archive/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

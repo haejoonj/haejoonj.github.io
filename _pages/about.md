@@ -1,13 +1,18 @@
 ---
-title: "이 블로그 설명서"
+title: "haejoon jeong's blog"
 permalink: /about/
 layout: single
 ---
 
-## haejoonj.github.io 블로그
+## haejoon jeong의 블로그
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+**# haejoon jeong**
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+### 정해준
+
+* Commercial pilot license, Phoenix, AZ, U.S.
+* 4 years. Hyundai motor company, procurement depart., Seoul, S.Korea
+* Mechanic engineering, Economics
+
+***
+취미로 코드를 공부하고 있습니다.

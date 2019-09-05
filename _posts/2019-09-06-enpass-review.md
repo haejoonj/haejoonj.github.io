@@ -7,9 +7,9 @@ header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
 categories:
-  - Blog Review
+  - Blog, Review
 tags:
-  - Blog Enpass 비밀번호 암호화 관리
+  - Blog, Enpass, 비밀번호, 암호화, 관리
 last_modified_at: 2019-09-06T06:36:00
 ---
 

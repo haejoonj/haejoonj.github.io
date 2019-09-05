@@ -6,7 +6,7 @@ toc_sticky: true
 header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
- categories:
+categories:
   - Blog
 tags:
   - Blog

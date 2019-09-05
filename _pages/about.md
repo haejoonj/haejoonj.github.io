@@ -14,3 +14,4 @@ layout: single
 
 ***
 취미로 코드를 공부하고 있습니다.
+![꼬부기가족](/assets/images/IMG_0175.jpg “꼬부기가족”) 

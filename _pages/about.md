@@ -8,10 +8,11 @@ layout: single
 
 ### 정해준
 
-* Commercial pilot license, Phoenix, AZ, U.S.
-* 4 years. Hyundai motor company, procurement depart., Seoul, S.Korea
-* Mechanic engineering, Economics
+-   Commercial pilot license, Phoenix, AZ, U.S.
+-   4 years. Hyundai motor company, procurement depart., Seoul, S.Korea
+-   Mechanic engineering, Economics
 
-***
+* * *
+
 취미로 코드를 공부하고 있습니다.
-![꼬부기가족](/assets/images/IMG_0175.jpg “꼬부기가족”) 
+![꼬부기가족](/assets/images/IMG_0175.jpg)

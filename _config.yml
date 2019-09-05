@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "haejoon jeong"
-  avatar           : "/assets/images/men-521540_640.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/aircraft-1526567_640.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "독학으로 github 공부 중"
   location         : "Seoul, S.Korea"
   email            : # haejoonj@daum.net

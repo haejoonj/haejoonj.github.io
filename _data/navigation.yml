@@ -17,7 +17,7 @@ main:
     - title: "Tags"
       url: /tags/
 
-    - title: "years" # 이건 해보고 별로면 빼자
+    - title: "Years" # 이건 해보고 별로면 빼자
       url: /year-archive/
 
   # - title: "Sample Collections"

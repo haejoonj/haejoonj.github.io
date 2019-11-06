@@ -1,5 +1,5 @@
 ---
-title: <영상편집 및 게임용> 노트북 구입 추천
+title: 영상편집 및 게임용 노트북 구입 추천
 excerpt: 가성비 끝판왕 노트북 레노버 y540
 toc: true
 toc_sticky: true

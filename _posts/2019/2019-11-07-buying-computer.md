@@ -34,6 +34,8 @@ xplane 11 이 잘 안돌아가서 노트북을 결국 구입하게 되었다.
 
 ![y540](../../_posts/assets/markdown-img-paste-2019110708284167.png)
 
+![markdown-img-paste-2019110708284167](/assets/markdown-img-paste-2019110708284167_uqleajutr.png)
+
 몇몇 유투브에도 추천제품으로 언급되고 있고,
 
 ![Y540 링크](https://youtu.be/gt-vOEx3Zmc?t=498)

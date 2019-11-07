@@ -43,6 +43,6 @@ xplane 11 이 잘 안돌아가서 노트북을 결국 구입하게 되었다.
 
 아래링크는 레노버 공식 홈페이지 설명이다.
 
-https://www.lenovo.com/kr/ko/laptops/legion/legion-laptops/Lenovo-Legion-Y540-15/p/88GMY501214
+!(https://www.lenovo.com/kr/ko/laptops/legion/legion-laptops/Lenovo-Legion-Y540-15/p/88GMY501214)
 
 영상편집과 게임을 목적으로 노트북 구입을 고민중이라면 추천하는 제품이다.

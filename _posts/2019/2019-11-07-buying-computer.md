@@ -32,19 +32,23 @@ xplane 11 이 잘 안돌아가서 노트북을 결국 구입하게 되었다.
 
 유투브나 인터넷에 많이들 추천하는 제품이기도 하고 가성비도 나쁘지않은 좋은 제품이다.
 
-![y540](../../_posts/assets/markdown-img-paste-2019110708284167.png)
-
 ![markdown-img-paste-2019110708284167](/assets/markdown-img-paste-2019110708284167_uqleajutr.png)
 
 몇몇 유투브에도 추천제품으로 언급되고 있고,
 
-![Y540 링크](https://youtu.be/gt-vOEx3Zmc?t=498)
+[![Y540 링크]](https://youtu.be/gt-vOEx3Zmc?t=498)
 
 
 아마 윈도우 노트북을 구입하는 많은 이유중 하나가
+가격대비 성능일텐데, 아주 만족스러운 성능이다.
+
+특히 키보드 백라이트지원되서 밤에도 사용하기 아주 예쁘고 좋다.
+
 
 아래링크는 레노버 공식 홈페이지 설명이다.
 
-!(https://www.lenovo.com/kr/ko/laptops/legion/legion-laptops/Lenovo-Legion-Y540-15/p/88GMY501214)
+[!(레노버 공식 사이트설명)](https://www.lenovo.com/kr/ko/laptops/legion/legion-laptops/Lenovo-Legion-Y540-15/p/88GMY501214)
 
 영상편집과 게임을 목적으로 노트북 구입을 고민중이라면 추천하는 제품이다.
+
+## 2. 제품사양
